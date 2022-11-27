@@ -148,9 +148,11 @@ AND זה שער שמוציא זרם רק אם הוא מקבל זרם בשני ה
 (לא יודע האם יש תועלת להכנס לכל החשבון של full-adder הרעיון הובן)
 
 אנימציה של  Half Adder מויקיפדיה
-https://upload.wikimedia.org/wikipedia/commons/9/92/Halfadder.gif
+![Halfadder](https://upload.wikimedia.org/wikipedia/commons/9/92/Halfadder.gif)
+
 אנימציה של  full-adder מויקיפדיה
-https://upload.wikimedia.org/wikipedia/commons/5/57/Fulladder.gif
+![Fulladder](https://upload.wikimedia.org/wikipedia/commons/5/57/Fulladder.gif)
+
 
 אחרי שיש לנו אמצעי אחסון כל שהוא ומעבד המורכב משערים לוגיים אפשר לחשב כל חישוב כשהקלט והפלט יכול להיות אמצעי אחסון שונים.
 
