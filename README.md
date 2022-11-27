@@ -1,4 +1,5 @@
-היסטוריית כרטיסי ניקוב:
+# היסטוריית כרטיסי ניקוב
+
 במפקדי האוכלוסין שנערכו מדי עשור בארצות הברית מאז לידתה, שיטת הרישום היתה פשוטה. נציגים היו לוקחים מכל אזרח את פרטיו, רושמים את הפרטים על פתק נייר, ושולחים את כל הפתקים למטה המרכזי של המפקד.
 
 באמצע המאה התשע עשרה (1850) האוכלוסייה כמובן גדלה, והספירה הידנית של כל הפתקים נהיית מייגעת ומועדת לטעויות. להוסיף על הכאוס הקיים, הייתה גם דרישה חדשה בקונגרס, לאסוף פרטים נוספים במפקד האוכלוסין, כמו מין, צבע עור, מצב כלכלי ועוד נתונים. וכך, תהליך הספירה באמצעות פתקים הפך להיות כמעט בלתי אפשרי. מנגד, טעות הייתה בלתי אפשרית, שכן הייצוג בקונגרס מבוסס על מפקד האוכלוסין, ולספירה או טעויות בספירה היו משמעויות פוליטיות טעונות.
@@ -37,7 +38,7 @@
 
 
 הנה תיאור איך מבצעים כפל עם הלוח הזה:
-If I wanted to multiply, say, 12 times 15, I would punch a one and a two into the first column of a card and the second column of a card, then in the third column I would put another one and in the fourth column I would put a five. So the first two spots would be one and two and that would go into place on the plug board that shows it is the multiplier, and then the third and fourth spots on the card would go to a place that showed it was the multiplicand. And then there was a third slot that was to be the result, and that would punch the answer into whichever column on the card you wanted to put it in. And then you would need six wires to complete that.
+> If I wanted to multiply, say, 12 times 15, I would punch a one and a two into the first column of a card and the second column of a card, then in the third column I would put another one and in the fourth column I would put a five. So the first two spots would be one and two and that would go into place on the plug board that shows it is the multiplier, and then the third and fourth spots on the card would go to a place that showed it was the multiplicand. And then there was a third slot that was to be the result, and that would punch the answer into whichever column on the card you wanted to put it in. And then you would need six wires to complete that.
 
 בשלב מסויים, בגלל שלכל חברה היה צרכים שונים, יצרו לוח גנרי בצורה שאפשרה "לכתוב" על הכרטיס מידע דינמי.
 בכל כרטיס היה 80 עמודות ו12 שורות, בכל עמודה אפשר לכתוב תו אחד, כך שיש   80 תווים בכרטיס.
@@ -78,27 +79,25 @@ If I wanted to multiply, say, 12 times 15, I would punch a one and a two into th
 עכשיו כל ביט שמוסיפים מכפיל את האפשרויות ב2 
 אם יש לנו 3 ביט אז יש לנו 8 צרופים
 כל הצירופים שהיה לנו עם 2 ביטים עם 0 בהתחלה או עם 1 בהתחלה
-
-
+```
 000=0
 010=1
 010=2
-011= 3
-
-
+011=3
 100=4
 110=5
 110=6
-111= 7
-
-
+111=7
+```
 וכן הלאה
+
+```
 4=16
 5=32
 6=64
 7=128
 8=256
-
+```
 אז בבייט אנחנו יכולים לשמור מספר עד 255
 או לשמור טקסט, איך נשמור טקסט?
 מסכמים על לוח האותיות
